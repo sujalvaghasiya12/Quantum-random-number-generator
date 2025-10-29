@@ -1,0 +1,19 @@
+{
+  "created_at_utc": "2025-10-29T03:12:33.648121",
+  "requested_bits": 1024,
+  "backend": "simulator",
+  "backend_name": "Aer",
+  "whitening_steps": [],
+  "raw_bits_generated": 1024,
+  "final_bits_generated": 1024,
+  "stats": {
+    "raw_len": 1024,
+    "raw_shannon": 0.9987861499422315,
+    "raw_min_entropy": 0.9420082772408241,
+    "final_len": 1024,
+    "final_shannon": 0.9987861499422315,
+    "final_min_entropy": 0.9420082772408241
+  },
+  "seed": null,
+  "batch_shots": 4096
+}
